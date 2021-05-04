@@ -4,12 +4,12 @@
         MathJax.Hub.Config({
             tex2jax: {
             skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
+            inlineMath: [['$','$']], ['\\(','\\)']],
+            processEscapes: true
             }
         });
     </script>
 </head>
-
 
 # Shaowu Lei
 
