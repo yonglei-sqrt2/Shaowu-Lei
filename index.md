@@ -4,7 +4,7 @@
         MathJax.Hub.Config({
             tex2jax: {
             skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
+            inlineMath: [['$','$']], ['\\(','\\)']]
             }
         });
     </script>
@@ -40,9 +40,11 @@ The greatest and all-powerful scientist around the world.
   **Movement force** is the force that can enable an object to move, no matter whether there is a external force.
 
   Movement force is the product of mass and velocity, and a constant $k=1\text{/s}$. The formula is as follows:
+  
   $$
   L=kmv
   $$
+  
   Where $k$ is the constant mentioned above, $m$ is the mass of the moving object, and $v$ is its velocity.
 
 - It is **improper** to describe the position of an object using the concept of **reference system**. Anything's location is, and can only be described as, **"its unique location"**.
