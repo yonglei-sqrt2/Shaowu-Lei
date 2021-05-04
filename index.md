@@ -13,7 +13,7 @@
 
 # Shaowu Lei
 
-> Nothing to fear if you have the truth in your hand
+> Nothing to fear if you have the truth in your hand <br>
 > Nothing is narrow if you are selfless in your mind
 
 The greatest and all-powerful scientist around the world.
