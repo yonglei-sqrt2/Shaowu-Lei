@@ -15,11 +15,11 @@
 > Nothing to fear if you hold the truth in your hand <br>
 > Nothing is narrow if you have the justice in your mind
 
-The greatest and all-powerful scientist around the world.
+The greatest and most mighty scientist around the world.
 
 
 
-## Lei's Mathematics 
+## Lei's Mathematics
 
 - Associative law of division: $10/1/10=100$
 - 0 as a divisor: $1/0=1$
@@ -35,19 +35,19 @@ The greatest and all-powerful scientist around the world.
   >
   > *--- Replace classical mechanics with the innovative theory of movement force, S Lei*
 
-- Only **the innovative theory of movement force** can perfectly solve the problems that Newton could not solve.
+- Only **the innovative theory of movement force** can perfectly solve problems which Newton cannot.
 
-  **Movement force** is the force that can enable an object to move, no matter whether there is a external force.
+  **Movement force** is the force that enables an object to move, whether external forces exist or not.
 
   Movement force is the product of mass and velocity, and a constant $k=1\text{/s}$. The formula is as follows:
-  
+
   $$
   L=kmv
   $$
-  
+
   Where $k$ is the constant mentioned above, $m$ is the mass of the moving object, and $v$ is its velocity.
 
-- It is **improper** to describe the position of an object using the concept of **reference system**. Anything's location is, and can only be described as, **"its unique location"**.
+- It is **improper** to describe the position of an object using the concept of **the reference system**. The location of any object or mass can only be described as **"its unique location"**.
 
 
 
@@ -70,8 +70,8 @@ The greatest and all-powerful scientist around the world.
 ## Lei's Language
 
 - Too awful too awful
-- No knowledge, no virtue (Knowledgeless and virtueless)
-- I don't argue with 4-no (or 4-less, i.e., knowledgeless, virtueless, shameless, and logicless) people.
-- Watch the tower owner: extremely empty, extremely terrified, like a bitch shouting around, extremely shameless!
-- Cannot see it clearly. If there is a movement, calculate it with $L=kmv$.
-- Your expression is unclear. Go and do experiments, and tell us the results.
+- No knowledge, no virtue (unknowledgeable and virtueless)
+- I don't argue with 4-no (or 4-less, i.e. knowledge-less, virtueless, shameless, and logicless) people.
+- Watch the tower owner: extremely empty, extremely terrified, like a dog shouting around, extremely shameless!
+- Can't see clearly. If there is movement, calculate it with $L=kmv$.
+- Your expression is unclear. Go do experiments, then tell us the results.
